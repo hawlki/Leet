@@ -22,6 +22,8 @@ namespace Leet
                                .Replace("E","3")
                                .Replace("i","1")
                                .Replace("I","1")
+                               .Replace("l","1")
+                               .Replace("L","1")
                                .Replace("o","0")
                                .Replace("O","0")
                                .Replace("t","7")
