@@ -8,7 +8,7 @@ namespace Leet
         {
             Console.Clear();
             Console.Beep();
-
+            
             Console.WriteLine("-----------------------------");
             Console.WriteLine("Etec Adolpho Berezin");
             Console.WriteLine("Feito por Israel Camilo Lopes");
@@ -43,7 +43,7 @@ namespace Leet
 
             Console.WriteLine("Escolha uma tecla e clique nela para limpar sua tela");
             Console.ReadKey();
-            
+
             Console.Clear();
         }
     }
