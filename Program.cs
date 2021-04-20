@@ -9,11 +9,9 @@ namespace Leet
             Console.Clear();
             Console.Beep();
             
-            Console.WriteLine("-----------------------------");
-            Console.WriteLine("Etec Adolpho Berezin");
-            Console.WriteLine("Feito por Israel Camilo Lopes");
-            Console.WriteLine("1I3");
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("            Leet            ");
+            Console.WriteLine("----------------------------");
 
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
             Console.Write("Digite uma mensagem:");
